@@ -75,7 +75,7 @@ Public Health Reengagement: Restore momentum in cancer awareness post-pandemic.
 
 Cancer remains a major health concern in the UAE, with significant patterns emerging across demographics, cancer types, and treatment outcomes. Leukemia's dominance and the 30–41 age group's vulnerability highlight where public health efforts should be concentrated. The drop in diagnoses in 2024 suggests systemic disruptions possibly linked to the aftermath of the COVID-19 pandemic. This report recommends a data-driven, culturally informed approach to prevention, early diagnosis, and treatment optimization to improve national cancer outcomes.
 
-# Dashboard View
+## Dashboard View
 
 ![](https://github.com/hasheeryusuf/UAE-Cancer-Patient-Analysis/blob/main/TASK%2020A.png)
 
